@@ -1,9 +1,9 @@
 P0267 Reference Implementation
-=============
+----------------
 
-This forked version can be built successfully on MacOS Catalina. Please install `brew install catch2` first. And follows `BUILDING.md #CoreGraphics/Mac on macOS`. Once XCode is open, build ALL_TARGETS and INSTALL.
+## This forked version can be built successfully on MacOS Catalina. Please install `brew install catch2` first. And follows `BUILDING.md #CoreGraphics/Mac on macOS`. Once XCode is open, build ALL_TARGETS and INSTALL.
 
-=============
+----------------
 
 Please read the [LICENSE](https://github.com/mikebmcl/N3888_RefImpl/blob/master/LICENSE.md) before cloning or forking the code as there is important information there!
 
