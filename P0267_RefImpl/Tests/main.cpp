@@ -12,7 +12,7 @@
 #endif
 
 #define CATCH_CONFIG_RUNNER
-#include "catch.hpp"
+#include <catch2/catch.hpp>
 
 // io2d uses its own main(), rather than Catch's, so as to set the running
 // process' current working directory to that where input data files are

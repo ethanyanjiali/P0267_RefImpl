@@ -35,9 +35,9 @@ endif()
 add_subdirectory(P0267_RefImpl/P0267_RefImpl)
 
 
-if( NOT DEFINED IO2D_WITHOUT_SAMPLES )
-	add_subdirectory(P0267_RefImpl/Samples)
-endif()
+# if( NOT DEFINED IO2D_WITHOUT_SAMPLES )
+# 	add_subdirectory(P0267_RefImpl/Samples)
+# endif()
 
 
 if( NOT DEFINED IO2D_WITHOUT_TESTS )
